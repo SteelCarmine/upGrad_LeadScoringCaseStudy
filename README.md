@@ -1,1 +1,3 @@
 # upGrad_LeadScoringCaseStudy
+Company X Education creates online courses for industry professionals and markets them on several websites and search engines. People filling forms with their information are called leads. Sales teams contact these people and help them in selecting and pay for courses. Out of all those who register and pay are said to be converted. 
+The purpose of this study was to increase lead conversion rate by identifying highly promising leads(hot leads) to focus on by the sales team. We were required to build a model to assign a lead score between 0 to 100 to all the leads such that the higher the score more will be their chances of buying the course, and the target conversion rate was 80%.
